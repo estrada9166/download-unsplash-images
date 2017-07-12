@@ -1,0 +1,13 @@
+{
+  "name": "my-first-bot",
+  "version": "0.1.0",
+  "description": "my first canvas server",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "htmlparser2": "^3.9.2",
+    "mongoose": "^4.10.7",
+    "request": "^2.72.0",
+    "request-promise": "^4.2.1"
+  }
+}
